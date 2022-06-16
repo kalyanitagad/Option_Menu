@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OptionMenu</string>
+    <string name="item_saveAs"> save As</string>
+    <string name="item_save">item_save</string>
+    <string name="item_upload">item_upload</string>
+    <string name="item_download">item_dowload</string>
+    <string name="item_copy">item_copy</string>
+</resources>
